@@ -54,4 +54,4 @@ python water_depth_detector.py --source sample_videos/demo.mp4 --model best.pt
 
 ## 👨‍💻 Author
 
-Your Name
+Annel Jefferson S A 
