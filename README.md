@@ -44,6 +44,10 @@ python water_depth_detector.py --source sample_videos/demo.mp4 --model best.pt
 
 ---
 
+## 🎥 Demo Video
+
+▶️ [Watch full demo](result/resultvid.mp4)
+
 ## ⚠️ Notes
 
 * Calibration required before first run
